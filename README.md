@@ -4,3 +4,4 @@ Zadanie 8.4
 Zadanie 8.5
 Zadanie 8.6
 Zadanie 9.1
+Zadanie 9.2
